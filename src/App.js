@@ -15,7 +15,8 @@ function App() {
     <MainBody/>
     <Applogo/>
     </CartProvider> */}
-    <About/>
+    {/* <About/> */}
+    <Home></Home>
   </>
   )
 }
