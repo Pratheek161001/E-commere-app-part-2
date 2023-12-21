@@ -15,6 +15,7 @@ function Navbartop() {
             <Nav.Link as={Link} to="/home">Home</Nav.Link>
             <Nav.Link as={Link} to="/">Shop</Nav.Link>
             <Nav.Link as={Link} to="/about">About</Nav.Link>
+            <Nav.Link as={Link} to="/Login">Login</Nav.Link>
           </Nav>
         </Navbar.Collapse>
         <Example/>
@@ -22,5 +23,4 @@ function Navbartop() {
     </Navbar>
   );
 }
-
 export default Navbartop;
